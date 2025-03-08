@@ -25,5 +25,4 @@ This project aims to segment customers based on their transactional behavior usi
 - Scikit-learn (K-Means, clustering metrics)  
 - Matplotlib, Seaborn (Data Visualization)  
 
-## 📂 How to Run the Code  
-1. Clone this repository:  
+ 
