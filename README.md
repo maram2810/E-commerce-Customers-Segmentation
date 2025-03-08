@@ -19,7 +19,6 @@ This project aims to segment customers based on their transactional behavior usi
 ## 📊 Visualizations  
 - **Elbow Method** to determine optimal clusters.  
 - **Scatter plots** for transactions & burn rates.  
-- **Heatmap of cluster characteristics** (included in `images/` folder).  
 
 ## 🛠️ Tools & Technologies  
 - Python, Pandas, NumPy  
