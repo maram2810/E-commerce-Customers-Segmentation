@@ -14,7 +14,12 @@ This project aims to segment customers based on their transactional behavior usi
 - **Cluster 0:** High transaction customers in urban areas → **Offer VIP discounts & cashback**  
 - **Cluster 1:** Low transaction customers in non-urban areas → **Give welcome offers & incentives**  
 - **Cluster 2:** Medium transaction customers with steady activity → **Provide loyalty rewards**  
-- **Cluster 3:** Inactive or low transaction users → **Send targeted promotions & reminders**  
+- **Cluster 3:** Inactive or low transaction users → **Send targeted promotions & reminders**
+### 💡 **Business Strategy**
+To **increase loyalty**, we should:
+1️⃣ Reward **high-value** customers (Cluster 0)  
+2️⃣ Encourage **low-engagement** users (Cluster 1 & 3)  
+3️⃣ Retain **steady customers** with loyalty points (Cluster 2) 
 
 ## 📊 Visualizations  
 - **Elbow Method** to determine optimal clusters.  
